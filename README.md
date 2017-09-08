@@ -11,5 +11,5 @@ Udacity Full Stack Web Developer Nanodegree
 2. Run 'python media.py' or 'python3 media.py'
 3. fresh_tomatoes.html should be added (or over-written if previously generated) in the same directory
 ##How to Access Webpage
-Open fresh_tomatoes.html or navigate to [this link](https://s3-us-west-2.amazonaws.com/fullstack-movie-site/fresh_tomatoes.html?response-content-disposition=inline&X-Amz-Security-Token=AgoGb3JpZ2luEL7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiKAAjfdruEeHKhalRE4peBbsJ%2FQgdCQ%2BD9In2zaN26QGBoMmgLRrAvoMS)\
+Open fresh_tomatoes.html or navigate to [this link](https://s3-us-west-2.amazonaws.com/fullstack-movie-site/fresh_tomatoes.html)\
 If fresh_tomatoes.html is not present, see the section above about how to generate the webpage.
